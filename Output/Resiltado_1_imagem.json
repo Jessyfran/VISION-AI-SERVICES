@@ -1,0 +1,127 @@
+[
+  {
+    "recognitionModel": "reconhecimento_01",
+    "faceRectangle": {
+      "largura": 250,
+      "altura": 308,
+      "esquerda": 121,
+      "topo": -4
+    },
+    "faceMarcos": {
+      "pupilaEsquerda": {
+        "x": 187,7,
+        "e": 95,3
+      },
+      "pupilaRight": {
+        "x": 303,6,
+        "e": 116,7
+      },
+      "ponta do nariz": {
+        "x": 230,4,
+        "e": 180,6
+      },
+      "bocaEsquerda": {
+        "x": 173,8,
+        "e": 214,4
+      },
+      "bocaDireita": {
+        "x": 269,3,
+        "e": 232,8
+      },
+      "sobrancelhaEsquerdaExterna": {
+        "x": 160,2,
+        "e": 50,9
+      },
+      "sobrancelhaEsquerdaInterna": {
+        "x": 219,1,
+        "e": 64,7
+      },
+      "olhoEsquerdoExterno": {
+        "x": 165,9,
+        "e": 89,7
+      },
+      "olhoEsquerdoTopo": {
+        "x": 192,3,
+        "e": 86,7
+      },
+      "olhoEsquerdoInferior": {
+        "x": 182,8,
+        "e": 102,9
+      },
+      "olhoEsquerdoInterno": {
+        "x": 209,8,
+        "e": 102
+      },
+      "sobrancelhaDireitaInterior": {
+        "x": 281,5,
+        "e": 79,9
+      },
+      "sobrancelha direita externa": {
+        "x": 347,9,
+        "e": 91,9
+      },
+      "olhoDireitoInterior": {
+        "x": 281,2,
+        "e": 116,3
+      },
+      "olhoDireitoTopo": {
+        "x": 302,5,
+        "e": 105,6
+      },
+      "olhoDireitoInferior": {
+        "x": 304,
+        "e": 125,6
+      },
+      "olhoDireitoExterno": {
+        "x": 326,8,
+        "e": 119,2
+      },
+      "narizRaizEsquerda": {
+        "x": 225,8,
+        "e": 113,5
+      },
+      "narizRaizDireita": {
+        "x": 258,9,
+        "e": 119,9
+      },
+      "noseLeftAlarTop": {
+        "x": 207,7,
+        "e": 156,1
+      },
+      "noseRightAlarTop": {
+        "x": 260,1,
+        "e": 165,4
+      },
+      "noseLeftAlarOutTip": {
+        "x": 194,5,
+        "e": 175,9
+      },
+      "noseRightAlarOutTip": {
+        "x": 264,6,
+        "e": 190,5
+      },
+      "topo do lábio superior": {
+        "x": 224,
+        "e": 225,5
+      },
+      "lábiosuperiorinferior": {
+        "x": 220,1,
+        "e": 231
+      },
+      "underLipTop": {
+        "x": 219,
+        "e": 234
+      },
+      "underLipBottom": {
+        "x": 217,4,
+        "e": 246,2
+      }
+    },
+    "Atributos de rosto": {
+      "máscara": {
+        "tipo": "noMask",
+        "narizEBocaCoberto": falso
+      }
+    }
+  }
+]
